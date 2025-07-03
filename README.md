@@ -6,7 +6,7 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 
 I'm an aspiring Computer Science student with a passion for building clean, responsive, and functional web applications.
 
-![My Portfolio](https://github.com/Jayachandrapaidi/Portfolio/blob/main/photos.png?raw=true)
+![My Portfolio](https://github.com/Jayachandrapaidi/Portfolio/blob/main/Images/photos.png?raw=true)
 
 ## I have hands-on experience in
 
