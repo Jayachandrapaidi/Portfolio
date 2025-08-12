@@ -9,7 +9,7 @@ I'm an aspiring Computer Science student with a passion for building clean, resp
 Visit my portfolio website: [Click here](https://jayachandrapaidi.github.io/Portfolio/)
 
 
-![My Portfolio](https://github.com/Jayachandrapaidi/Portfolio/blob/main/Images/photos.png?raw=true)
+![My Portfolio](https://github.com/Jayachandrapaidi/Portfolio/blob/main/Images/photos1.png?raw=true)
 
 ## I have hands-on experience in
 
